@@ -1,0 +1,527 @@
+    1  passwd root 
+    2  dpkg -i google-chrome-stable_current_amd64.deb
+    3  cd /home/seda/Masaüstü/
+    4  dpkg -i sleep-problem-fixer_2019.1.0_amd64.deb 
+    5  apt install pardus-imagewriter
+    6  apt --fix-broken install
+    7  apt install pardus-imagewriter
+    8  dpkg -i sleep-problem-fixer_2019.1.0_amd64.deb 
+    9  reboot 
+   10  system-config-printer
+   11  dpkg -i pfusp-ubuntu18.04_2.1.1_amd64.deb 
+   12  mkdir /usr/lib/sane/
+   13  dpkg -i pfusp-ubuntu18.04_2.1.1_amd64.deb 
+   14  cd /usr/lib/sane/
+   15  ls
+   16  cd /usr/lib/
+   17  ls
+   18  cd ..
+   19  apt update 
+   20  apt install gcc make
+   21  ./configure
+   22  make
+   23  apt install gcc make ./configure
+   24  make install
+   25  apt install gcc make
+   26  apt update 
+   27  apt install gcc make
+   28  ./configure
+   29  make
+   30  cd /home/seda/İndirilenler/
+   31  ls
+   32  dpkg -i pfusp-ubuntu18.04_2.1.1_amd64.deb 
+   33  /etc/init.d/pfuspscanbutton start 
+   34  /etc/init.d/pfufsscan start 
+   35  /etc/init.d/pfufsscanbutton start 
+   36  /etc/init.d/pfufsscanbutton start
+   37  sudo /etc/init.d/pfuspscanbutton start
+   38  mousepad /etc/sane.d/dll.conf 
+   39  lsusb
+   40  pico /etc/sane.d/fujitsu.conf 
+   41  CHMOD 777 003
+   42  chmod 777 003
+   43  cd /dev/bus/usb/003
+   44  chmod 777 003
+   45  lsusb
+   46  chmod 777 006
+   47  xsane 
+   48  rm -rf /media/seda/Pardus\ 19.0\ Canli/
+   49  fdisk -l
+   50  mkfs.vfat -F 32 /dev/sdb
+   51  mkfs.vfat -F 32 /dev/sdb1
+   52  mkfs.vfat -F 32 /dev/sdb2
+   53  mkfs.vfat -F 32 /dev/sdb
+   54  cd ..
+   55  apt install gparted 
+   56  gparted
+   57  apt install hplip
+   58  hp-doctor 
+   59  exit
+   60  ls
+   61  ls -l
+   62  ls -la
+   63  mv . /home/seda/Masaüstü/
+   64  mv . /home/seda/Masaüstü/afad/
+   65  ls
+   66  ls -la
+   67  mv .. /home/seda/Masaüstü/afad/
+   68  dpkg -i ps-pulse-linux-9.0r4.0-b943-ubuntu-debian-64-bit-installer.deb 
+   69  ssh-keygen 
+   70  ssh-keygen -t rsa
+   71  clear
+   72  ls
+   73  ssh-keygen -f zkb_sedaarik
+   74  ls
+   75  cp zkb_sedaarik.pub /home/seda/Masaüstü/
+   76  cp zkb_sedaarik /home/seda/Masaüstü/
+   77  LS
+   78  ls
+   79  cat zkb_sedaarik
+   80  ssh sakbuga@191.9.194.157 -i zkb_sedaarik
+   81  ssh sakbuga@161.9.194.157 -i zkb_sedaarik
+   82  exit
+   83  ssh-keygen 
+   84  su
+   85  dpkg -i libobasis6.3-tr-help_6.3.3.2-2_amd64.deb 
+   86  dpkg -i libobasis6.3-tr-help_6.3.3.2-2_amd64.deb 
+   87  dpkg -i *.deb
+   88  dpkg -i *.deb
+   89  apt install libvirt
+   90  apt install v
+   91  apt install virtualbox-5.1 
+   92  dpkg -i *.deb
+   93  dpkg -i nomachine_6.8.1_1_amd64.deb 
+   94  rdp root@10.212.2.46
+   95  xrdp root@10.212.2.46
+   96  apt install xrdp
+   97  xrdp root@10.212.2.46
+   98  apt install remmina
+   99  sudo apt-add-repository ppa:remmina-ppa-team/remmina-next
+  100  echo 'deb https://ftp.debian.org/debian stretch-backports main' | sudo tee --append /etc/apt/sources.list.d/stretch-backports.list >> /dev/null
+  101  apt update 
+  102  sudo apt install -t stretch-backports remmina remmina-plugin-rdp remmina-plugin-secret remmina-plugin-spice
+  103  echo 'deb https://ftp.debian.org/debian stretch-backports main' | sudo tee --append /etc/apt/sources.list.d/stretch-backports.list >> /dev/null
+  104  apt update
+  105  apt install xrdp
+  106  apt autoremove 
+  107  apt install xrdp 
+  108  rdesktop-vrdp 
+  109  xrdp
+  110  echo 'deb https://ftp.debian.org/debian stretch-backports main' | sudo tee --append /etc/apt/sources.list.d/stretch-backports.list >> /dev/null
+  111  apt update 
+  112  sudo apt install -t stretch-backports remmina remmina-plugin-rdp remmina-plugin-secret remmina-plugin-spice
+  113  pico /etc/apt/sources.list
+  114  apt install vnc4server 
+  115  apt install tigervnc-viewer 
+  116  vncserver 
+  117  vncviewer 
+  118  apt install network-manager-openconnect-gnome 
+  119  network-admin 
+  120  ip ap
+  121  ip a
+  122  apt install network-manager-openvpn
+  123  history 
+  124  apt install remmina
+  125  apt clean 
+  126  clear
+  127  deb http://deb.debian.org/debian buster-backports main
+  128  pico /etc/apt/sources.list
+  129  apt update 
+  130  clear
+  131  echo 'deb https://ftp.debian.org/debian stretch-backports main' | sudo tee --append /etc/apt/sources.list.d/stretch-backports.list >> /dev/null
+  132  apt update 
+  133  sudo apt install -t stretch-backports remmina remmina-plugin-rdp remmina-plugin-secret remmina-plugin-spice
+  134  apt install remmina
+  135  apt autoremove 
+  136  apt install remmina-plugin-rdp 
+  137  cd /etc/apt/sources.list.d/
+  138  rm -rf google-chrome.list
+  139  apt update 
+  140  apt install remmina
+  141  pico /etc/apt/sources.list
+  142  pico /etc/apt/sources.list.d
+  143  pico /etc/apt/sources.list
+  144  clear
+  145  ip a
+  146  rdp root@10.212.2.46
+  147  xrdp root@10.212.2.46
+  148  apt install rdesktop 
+  149  rdesktop 10.212.46
+  150  rdesktop 10.212.2.46
+  151  ip a
+  152  apt install remmina
+  153  apt install freerdp
+  154  apt install freerdp2
+  155  rdesktop 10.212.2.46
+  156  pico /etc/apt/sources.list
+  157  apt update 
+  158  apt dist-upgrade 
+  159  clear
+  160  sudo rm -f /etc/apt/sources.list.d/*.save
+  161  pico /etc/apt/sources.list
+  162  apt update 
+  163  apt install remmina
+  164  pico /etc/apt/sources.list
+  165  remmina
+  166  ip a
+  167  remmina
+  168  cd /home/seda/İndirilenler/
+  169  LS
+  170  ls
+  171  apt install ./clickshare_0.3_amd64.deb 
+  172  apt install printer-driver-all
+  173  apt remove printer-driver-all
+  174  apt update 
+  175  pico /etc/apt/sources.list
+  176  apt update 
+  177  apt install smb4k 
+  178  pico /etc/samba/smb.conf 
+  179  pico /etc/samba/smb.conf >> /home/pardus/Masaüstü/smbconf
+  180  pico /etc/samba/smb.conf >> /home/pardus/Masaüstü/smbconf.txt
+  181  pico /etc/samba/smb.conf >>smb.txt
+  182  pico /etc/samba/smb.conf
+  183  pico /etc/samba
+  184  pico /etc/smb
+  185  pico /etc/samba/smb.conf
+  186  apt install libcanberra-gtk-module libcanberra-gtk3-module
+  187  apt install ./libavutil52_9.20-0ubuntu0.14.04.1_amd64.deb
+  188  apt./libavutil52_9.20-0ubuntu0.14.04.1_amd64.deb
+  189  cd /home/seda/Masaüstü/clickshare yeni/Clickshare Packages/Clickshare Packages/
+  190  cd /home/seda/Masaüstü/clickshare yeni
+  191  cd /home/seda/Masaüstü/clickshare\ yeni/
+  192  ls
+  193  Clickshare\ Packages/
+  194  cd Clickshare\ Packages/
+  195  ls
+  196  cd Clickshare\ Packages/
+  197  ls
+  198  clear
+  199  apt install ./libavutil52_9.20-0ubuntu0.14.04.1_amd64.deb 
+  200  apt install ./libswscale2_9.20-0ubuntu0.14.04.1_amd64.deb 
+  201  apt install ./clickshare_01.07.01-79_amd64.deb 
+  202  clickshare
+  203  clickshare-launcher 
+  204  history 
+  205  pico /etc/apt/sources.list
+  206  ssh-keygen -f sedadeneme
+  207  cat sedadeneme
+  208  apt install gnome-network-manager
+  209  history 
+  210  network-admin 
+  211  exit
+  212  apt autoremove 
+  213  dpkg -i anydesk_5.5.1-1_amd64.deb 
+  214  apt -f install 
+  215  apt autoremove 
+  216  dpkg -i anydesk_5.5.1-1_amd64.deb 
+  217  apt install aptitude
+  218  apt -- fix-broken
+  219  apt --fix-broken
+  220  apt -f install 
+  221  apt install aptitude
+  222  apt dist-upgrade --dry-run
+  223  apt autoremov
+  224  apt dist-upgrade
+  225  apt purge remmina
+  226  apt purge or:
+  227  apt purge libavahi-ui-gtk3-0 libayatana-appindicator3-1 libayatana-ido3-0.4-0
+  228  apt install aptitude
+  229  apt install libapt-pkg5.0 --reinstall
+  230  apt purge libapt-pkg5.0 
+  231  apt install apt --reinstall
+  232  vi /etc/apt/sources.list
+  233  vi /etc/apt/sources.list.d/remmina-ppa-team-ubuntu-remmina-next-focal.list 
+  234  vi /etc/apt/sources.list.d/stretch-backports.list 
+  235  nano /etc/apt/sources.list.d/stretch-backports.list 
+  236  sudo apt update
+  237  sudo apt dist-upgrade
+  238  sudo apt purge libfreerdp-client2-2 libfreerdp2-2 libssh-4 libvncclient1 libwinpr2-2
+  239  sudo apt dist-upgrade
+  240  apt purge remmina-common
+  241  apt install aptitude
+  242  vi /etc/apt/sources.list
+  243  nano /etc/apt/sources.list
+  244  apt update
+  245  apt install aptitude
+  246  nano /etc/apt/sources.list
+  247  apt update
+  248  apt dist-upgrade
+  249  apt install ./anydesk_5.5.1-1_amd64.deb 
+  250  nano /etc/apt/sources.list
+  251  apt update
+  252  apt install ./anydesk_5.5.1-1_amd64.deb 
+  253  nano /etc/apt/sources.list
+  254  apt update
+  255  apt install anydesk 
+  256  apt install dolphin
+  257  cd /home/seda/İndirilenler/
+  258  dpkg -i teamviewer_15.1.3937_amd64.deb 
+  259  teamviewer 
+  260  apt install teamviewer 
+  261  systemctl restart network-manager.service 
+  262  mount -a
+  263  fdisk 
+  264  fdisk -l
+  265  mount -t ntfs 
+  266  mount -t ntfs /dev/sdb1 /media/seda/Seagate\Backup\Plus\Drive
+  267  mount -t ntfs -o /dev/sdb1 /media/seda/Seagate\Backup\Plus\Drive
+  268  fsck /dev/sdb1
+  269  fsck -f /dev/sdb1
+  270  apt install sudo
+  271  usermod -a -G sudo <username>
+  272  usermod -a -G sudo <pardus>
+  273  usermod -a -G sudo <root>
+  274  apt install sudo
+  275  apt update 
+  276  ivet yapmayam mı
+  277  exit
+  278  apt install sudo
+  279  clear
+  280  usermod -a -G sudo <pardus>
+  281  usermod -a -G sudo <username>
+  282  usermod -a -G sudo <root>
+  283  usermod -a -G sudo pardus
+  284  usermod -a -G sudo root
+  285  sudo apt-get install mariadb-server apache2 php
+  286  dpkg -i rocketchat_2.17.2_amd64.deb 
+  287  rocketchat-desktop 
+  288  systemctl restart network-manager.service 
+  289  systemctl stop network-manager.service 
+  290  systemctl start network-manager.service 
+  291  systemctl status network-manager.service 
+  292  systemctl start network-manager.service 
+  293  systemctl restart network-manager.service 
+  294  kinit list
+  295  apt install libcanberra-gtk-module libcanberra-gtk3-module gksu
+  296  cd /media/seda/G510/
+  297  ls
+  298  cd Clickshare\ Packages/
+  299  ls
+  300  dpkg -i libavutil52_9.20-0ubuntu0.14.04.1_amd64.deb 
+  301  apt install ./libswscale2_9.20-0ubuntu0.14.04.1_amd64.deb
+  302  apt install ./clickshare_01.07.01-79_amd64.deb
+  303  apt-get purge clickshare 
+  304  apt install ./clickshare_01.07.01-79_amd64.deb
+  305  adduser kamp2020
+  306  ls
+  307  cd root/
+  308  ls
+  309  pwd
+  310  exit
+  311  adduser seda2
+  312  cd /home/
+  313  ls
+  314  clear
+  315  exit
+  316  adduser seda3
+  317  cd /hoq
+  318  cd /home/
+  319  ls
+  320  clear
+  321  cd /home/
+  322  ls
+  323  clear
+  324  exit
+  325  thunar
+  326  exit
+  327  sudo apt install pinta 
+  328  exit
+  329  passwd root 
+  330  sudo su
+  331  exit
+  332  passwd root
+  333  clear
+  334  dpkg -r pinta 
+  335  apt -d pinta
+  336  apt install -d pinta
+  337  cd /var/cache/apt/archives/
+  338  ls
+  339  mv pinta_1.6-2_all.deb /home/seda/Belgeler/
+  340  apt-cache search pinta
+  341  apt-cache show pinta
+  342  apt-cache policy 
+  343  apt-cache policy pinta
+  344  apt-cache add pinta
+  345  apt-cache pkgnames 
+  346  clear
+  347  dpkg -l
+  348  apt autoclean 
+  349  apt clean 
+  350  apt-cache depends anydesk
+  351  apt-cache pkgnames anydesk
+  352  apt-cache pkgnames teamwiever
+  353  apt-cache policy teamwiever
+  354  apt-cache policy anydesk 
+  355  apt-cache pkgnames anydesk 
+  356  apt-cache pkgnames libreoffice
+  357  clear
+  358  apt -h
+  359  apt install -f teamviewer
+  360  apt autoremove
+  361  apt install -f teamviewer
+  362  apt remove -f teamviewer
+  363  apt install -y pinta
+  364  apt install -s teamviewer
+  365  apt install -u teamviewer
+  366  gdebi man
+  367  apt install gdebi
+  368  gdebi man
+  369  apt install man
+  370  man gdebi
+  371  dpkg -q teamviever
+  372  clear
+  373  apt-cache search nmap
+  374  apt install nmap
+  375  dpkg -s pinta
+  376  clear
+  377  apt install pinta
+  378  clear
+  379  apt remove pinta
+  380  clear
+  381  apt purge pinta
+  382  clear
+  383  apt install pinta
+  384  pinta 
+  385  le
+  386  clear
+  387  apt purge teamviewer 
+  388  clear
+  389  apt-cache teamviever
+  390  apt-cache teamwiever
+  391  apt-cache teamviewer
+  392  apt-cache show teamviewer 
+  393  apt-cache show pinta 
+  394  clear
+  395  apt-cache depends teamviewer 
+  396  clear
+  397  apt-cache pkgnames
+  398  apt-cache policy teamviewer
+  399  clear,
+  400  clear
+  401  apt-cache policy teamviewer 
+  402  clear
+  403  apt-cache search pinta
+  404  apt-cache show pinta
+  405  apt-cache depends pinta
+  406  clear
+  407  apt-cache pkgnames pinta
+  408  apt-cache rdepends pinta
+  409  clear
+  410  apt-cache rdepends pinta
+  411  apt-cache policy teamviewer 
+  412  clear
+  413  apt install teamviewer 
+  414  teamviewer 
+  415  cd /home/seda/Masaüstü/paket/
+  416  ls
+  417  clear
+  418  ls
+  419  cd /home/seda/Masaüstü/paket/
+  420  ls
+  421  clear
+  422  ls
+  423  dpkg -i teamviewer_15.1.3937_amd64.deb 
+  424  teamviewer 
+  425  exit
+  426  apt purge teamviewer 
+  427  clear
+  428  gdebi teamviewer_15.1.3937
+  429  gdebi teamviewer_15.1.3937.x86_64.rpm 
+  430  clear
+  431  pico /etc/apt/sources.list
+  432  apt remove teamviewer 
+  433  apt install -d teamviewer
+  434  clear
+  435  apt-cache show pinta
+  436  apt-cache policy pinta
+  437  clear
+  438  pico /etc/apt/sources.list
+  439  apt-cache depends 
+  440  apt-cache depends teamviewer
+  441  clear
+  442  apt-cache show teamviewer
+  443  clear
+  444  apt-cache pkgnames 
+  445  apt-cache policy teamviewer
+  446  clear
+  447  pico /etc/apt/sources.list
+  448  apt update
+  449  pico /etc/apt/sources.list
+  450  apt update 
+  451  clear
+  452  apt update 
+  453  clear
+  454  apt upgrade 
+  455  apt update 
+  456  clear
+  457  apt install -d teamviewer
+  458  cd /var/cache/apt/archives/
+  459  mv teamviewer_15.1.3937_amd64.deb /home/seda/Belgeler/
+  460  cd /home/seda/Belgeler/
+  461  LS
+  462  ls
+  463  clear
+  464  apt install -s teamviewer
+  465  clear
+  466  ls
+  467  apt install -s teamviewer
+  468  clear
+  469  ls
+  470  rm teamviewer_15.1.3937_amd64.deb 
+  471  apt install teamviewer
+  472  apt purge teamviewer 
+  473  apt install -y teamviewer 
+  474  clear
+  475  cd /etc/apt
+  476  ls
+  477  cd sources.list.d/
+  478  cd sources.list
+  479  cd ..
+  480  cd /etc/apt/sources.list.d/
+  481  ls
+  482  cd ..
+  483  pico /etc/apt/sources.list
+  484  clear
+  485  cd /home/seda/Belgeler/
+  486  ls
+  487  clear
+  488  dpkg -i pinta_1.6-2_all.deb 
+  489  dpkg -l
+  490  dpkg -r pinta
+  491  cd ..
+  492  cd /
+  493  ls
+  494  cd opt/
+  495  ls
+  496  cd tmp
+  497  cd .
+  498  cd ..
+  499  cd /tmp/
+  500  ls
+  501  cd ..
+  502  cd /home/seda/Belgeler/
+  503  LS
+  504  ls
+  505  gdebi pinta_1.6-2_all.deb 
+  506  clear
+  507  apt autoremove 
+  508  clear
+  509  apt clean 
+  510  cd ..
+  511  ls
+  512  ls -la
+  513  sudo cd ..
+  514  sudo ls -la
+  515  cd 
+  516  ls -la
+  517  cd .cache/
+  518  exit
+  519  cd
+  520  cd ~
+  521  pwd
+  522  ls -la
+  523  pwd
+  524  nano .bash
+  525  nano .bashrc 
+  526  exit
+  527  history >> /home/seda/Belgeler/historyroot2427ocak.txt

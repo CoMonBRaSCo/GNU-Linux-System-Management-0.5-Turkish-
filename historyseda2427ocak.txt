@@ -1,0 +1,1000 @@
+  103  sudo ls lost+found/
+  104  ls
+  105  pwd
+  106  ls
+  107  cd /
+  108  ls
+  109  apt install pinta 
+  110  su root
+  111  su
+  112  su 
+  113  ls
+  114  ls run/
+  115  ls sbin/
+  116  ls
+  117  ls srv/"
+  118  ls srv
+  119  ls
+  120  ls sys/
+  121  ls tmp/
+  122  ls usr/
+  123  ls var/
+  124  ls
+  125  ls -l
+  126  ls
+  127  ls -l
+  128  clear
+  129  history 
+  130  clear
+  131  cd
+  132  cd /home/seda/masaüstü
+  133  clear
+  134  cd /seda
+  135  cd /home/
+  136  ls
+  137  ls -l
+  138  CLEAR
+  139  clear
+  140  su
+  141  adduser x
+  142  su
+  143  adduser seda3
+  144  su
+  145  clear
+  146  apt install pinta
+  147  clear
+  148  sudo apt install pinta
+  149  pinta 
+  150  clear
+  151  apt remove pinta 
+  152  thunar
+  153  cd /
+  154  cler
+  155  clear
+  156  su
+  157  thunar
+  158  clear
+  159  sudo apt remove pinta 
+  160  clear
+  161  apt purge pinta
+  162  sudo apt purge pinta
+  163  clear
+  164  sudo su
+  165  su
+  166  sudo apt install pinta
+  167  sudo su
+  168  exit
+  169  cd /
+  170  ls
+  171  cd boot/
+  172  ls
+  173  /grub
+  174  cd /grub
+  175  ls /
+  176  pwd
+  177  ls
+  178  cd grub
+  179  ls
+  180  ls /
+  181  cd /etc/
+  182  ls
+  183  cd vbox/
+  184  ls
+  185  cd ..
+  186  ls
+  187  cd xfce4/
+  188  ls
+  189  cd /home/seda/Masaüstü/
+  190  ls
+  191  pwd
+  192  ls
+  193  ls ..
+  194  ls  /opt/google/
+  195  ls /
+  196  cd /tmp
+  197  cd -
+  198  cd ../
+  199  pwd
+  200  ls
+  201  pwd
+  202  cd ..
+  203  ls
+  204  cd tmp/
+  205  ls
+  206  pwd
+  207  cd /root/
+  208  pwd
+  209  cd ../bin/
+  210  pwd
+  211  cd root
+  212  ls
+  213  cd /root
+  214  cd ~
+  215  pwd
+  216  cd -
+  217  pwd
+  218  cd ../..
+  219  cd -
+  220  cd ../home/seda/Resimler/
+  221  cd ..
+  222  ls
+  223  ls -l
+  224  ls -a
+  225  history 
+  226  clear
+  227  ls
+  228  cd /home/seda/Masaüstü/
+  229  ls
+  230  clear
+  231  cd /home/seda
+  232  ls
+  233  cd Masaüstü/
+  234  ls
+  235  cd ..
+  236  cd /home/seda/Masaüstü/
+  237  clear
+  238  history 
+  239  cd /home/seda
+  240  clear
+  241  history >> history.txt
+  242  ls
+  243  cat history.txt 
+  244  clear
+  245  pwf
+  246  pwd
+  247  clear
+  248  ls
+  249  clear
+  250  mkdir kamp2020
+  251  ls
+  252  clear
+  253  mkdir seda1 /home/seda/Masaüstü/
+  254  mkdir kamp1 /home/seda/Masaüstü/
+  255  cd /home/seda/Masaüstü/
+  256  ld
+  257  ls
+  258  mkdir xxx
+  259  clear
+  260  ls
+  261  mv xxx/ /home/seda/indirilenler24ocak/
+  262  ls
+  263  clear
+  264  cd ..
+  265  ls
+  266  mv xxx/ /home/seda
+  267  ls
+  268  clear
+  269  cd
+  270  ls
+  271  mv xxx /home/seda/İndirilenler/
+  272  clear
+  273  mkdir dosyaadı
+  274  ls
+  275  clear
+  276  cp history.txt /home/seda/dosya_calısma/
+  277  cd /home/seda/dosya_calısma/
+  278  ls
+  279  cat history.txt 
+  280  ls
+  281  clear
+  282  ls
+  283  cat history.txt 
+  284  clear
+  285  cd ..
+  286  ls
+  287  cat Adsız\ 1.docx 
+  288  ,
+  289  clear
+  290  ls
+  291  clear
+  292  cat .config/
+  293  clear
+  294  cd ..
+  295  history 
+  296  mkdir kamp1 /home/seda/Masaüstü/
+  297  mkdir dosyaadı
+  298  history 
+  299  clear
+  300  ls
+  301  cd seda
+  302  ls
+  303  mv kamp2020 kamp2021
+  304  ls
+  305  clear
+  306  ls
+  307  clear
+  308  rm kamp1
+  309  ls
+  310  rm Adsız\ 1.docx 
+  311  LS
+  312  ls
+  313  clear
+  314  rm -R kamp1
+  315  ls
+  316  clear
+  317  ls
+  318  cle
+  319  clear
+  320  rm -rf dosya_calısma/
+  321  ls
+  322  rm sane-backends-1.0.27.tar.gz 
+  323  ls
+  324  rm -rf sane-backends-1.0.27.tar.gz 
+  325  ls
+  326  clear
+  327  mkdir deneme05 /home/seda/Resimler/
+  328  cd /home/seda/Resimler/
+  329  mkdir deneme05
+  330  ls
+  331  cd /home/seda/Masaüstü/
+  332  touch deneme.txt
+  333  ls
+  334  cp deneme.txt dene.odt dene.pdf /home/seda/Resimler/
+  335  ls
+  336  cd /home/seda/Resimler/
+  337  LS
+  338  ls
+  339  clear
+  340  mv dene.odt dene.pdf deneme.txt deneme05/
+  341  ls
+  342  cd deneme05/
+  343  ls
+  344  clear
+  345  mkdir seda.txt
+  346  ls
+  347  history 
+  348  clear
+  349  cd ..
+  350  clear
+  351  ls
+  352  mkdir deneme2
+  353  ls
+  354  touch 1.txt 2.txt 3.txt 5.txt
+  355  ls
+  356  clear
+  357  ls
+  358  mv 1.txt 2.txt deneme2/
+  359  ls
+  360  cd deneme2/
+  361  ls
+  362  cd ..
+  363  ls
+  364  cp 3.txt 5.txt deneme2/
+  365  ls
+  366  cd deneme2/
+  367  ls
+  368  clear
+  369  LS
+  370  ls
+  371  rm 1.txt 2.txt 
+  372  ls
+  373  cd ..
+  374  ls
+  375  cd deneme05/
+  376  ls
+  377  clear
+  378  ls
+  379  cd .
+  380  cd ..
+  381  rm deneme05/
+  382  rm -rf deneme05/
+  383  ls
+  384  cd deneme2/
+  385  ls
+  386  touch 3.txt 
+  387  ls
+  388  cat 3.txt 
+  389  clear
+  390  ls
+  391  cd ..
+  392  ls
+  393  cd ..
+  394  ls
+  395  pwd
+  396  whatis ls
+  397  whatis rm
+  398  whatis pwd
+  399  whatis mkdir
+  400  which ls
+  401  pwd
+  402  ls /bin
+  403  pwd
+  404  which pwd
+  405  ls /sbin/
+  406  which shadowconfig 
+  407  whereis ls
+  408  whereis passwd
+  409  passwd --help
+  410  ls --help
+  411  ls -h
+  412  passwd --help
+  413  history --help
+  414  touch --help
+  415  man ls
+  416  man passwd
+  417  man mount
+  418  man shadow
+  419  man shadowconfig 
+  420  man man
+  421  man -f passwd
+  422  man passwd
+  423  man 5 passwd
+  424  man -f mount
+  425  man mount
+  426  man 2 mount 
+  427  man -k passwd
+  428  whatis passwd
+  429  whatis -f passwd
+  430  whatis passwd
+  431  man -k passwd
+  432  man -f passwd
+  433  whatis passwd
+  434  man passwd
+  435  apropos ls
+  436  apropos passwd
+  437  man -k passwd
+  438  info passwd
+  439  sudo apt install info
+  440  info passwd
+  441  cd /home/ ; ls
+  442  cd /tmp ; lsdjhg
+  443  cd /selin ; ls
+  444  cd /home/seda
+  445  ls
+  446  ls deneme05/
+  447  touch deneme05/selindeneme.txt
+  448  nano deneme05/selindeneme.txt 
+  449  ls
+  450  ls deneme05/
+  451  cd deneme05/ ; cat selindeneme.txt 
+  452  cd deneme05s/ ; cat selindeneme.txt 
+  453  cd deneme05ss/ ; cat selindeneme.txt 
+  454  ls
+  455  cd ..
+  456  cd deneme05ss/ ; cat selindeneme.txt 
+  457  cd /selin & ls
+  458  cd /selin && ls
+  459  cd /home/seda/ && touch kamp2gun
+  460  pwd
+  461  ls
+  462  cd /home/seda2/ && lshs
+  463  ls
+  464  cd ..
+  465  ls
+  466  cd seda
+  467  ls
+  468  ls İ*
+  469  ls
+  470  ls s*
+  471  ls
+  472  ls deneme05/
+  473  mkdir deneme06
+  474  mkdir deneme04
+  475  ls
+  476  touch deneme04/deneme04.md
+  477  cat > hi ~/deneme06/
+  478  cat hi > ~/deneme06/
+  479  cat hi > ~/deneme06/hi.txt
+  480  cat deneme06/hi.txt 
+  481  cat hii > ~/deneme06/
+  482  ls
+  483  ls deneme0*
+  484  ls
+  485  cat deneme04
+  486  ls deneme04/deneme04.md 
+  487  cat deneme04/deneme04.md 
+  488  nano deneme04/deneme04.md 
+  489  cat deneme04/deneme04.md 
+  490  mkdir ss
+  491  rmdir ss
+  492  mkdir ss
+  493  rm ss
+  494  rm -r ss
+  495  clear
+  496  touch kamp2.txt
+  497  pico kamp2.txt 
+  498  cat kamp2.txt 
+  499  pico kamp2.txt 
+  500  clear
+  501  cat kamp2.txt 
+  502  tac kamp2.txt 
+  503  sort kamp2.txt 
+  504  clear
+  505  uniq kamp2.txt 
+  506  clear
+  507  cat kamp2.txt 
+  508  uniq kamp2.txt 
+  509  echo merhabadünya
+  510  echo merhabadünya >> kamp2.txt 
+  511  cat kamp2.txt 
+  512  clear
+  513  cat > hi.txt
+  514  cat hi.txt 
+  515  clear
+  516  touch kamp3.txt
+  517  ls
+  518  touch kamp2.txt
+  519  ls -la
+  520  clear
+  521  touch selin.txt
+  522  ls
+  523  touch kamp3.txt
+  524  clear
+  525  head -5 kamp2.txt 
+  526  head -5 kamp2.txt >> duzenli.txt
+  527  cat duzenli.txt 
+  528  head -5 kamp2.txt 
+  529  clear
+  530  tail -5 kamp2.txt 
+  531  tail -5 kamp2.txt >> duzenli.txt 
+  532  cat duzenli.txt 
+  533  clear
+  534  history >> history2.txt
+  535  cat history2.txt 
+  536  clear
+  537  ls
+  538  pwd
+  539  mkdir gun2ogledensonra
+  540  ls
+  541  cd gun2ogledensonra/
+  542  ls
+  543  mkdir gun2 gun3
+  544  ls
+  545  mkdir ogleden\ sonra
+  546  ls
+  547  cd ogleden\ sonra/
+  548  ls
+  549  cd ..
+  550  ls
+  551  ls gu*
+  552  ls gu??
+  553  ls gu?
+  554  ls
+  555  touch deneme.txt deneme1.md deneme123 
+  556  ls
+  557  mkdir mkdir
+  558  ls
+  559  mkdir -p dizinler/a/b/c
+  560  ls
+  561  ls dizinler/
+  562  ls dizinler/a
+  563  ls dizinler/a/b/
+  564  ls dizinler/a/b/c/
+  565  ls
+  566  mkdir -p gamze selin
+  567  ls
+  568  rmdir gamze/ selin/
+  569  ls
+  570  cat > ogleden\ sonra/hi.txt
+  571  ls ogleden\ sonra/
+  572  ls
+  573  top
+  574  ls
+  575  mkdir yazı tahtası
+  576  ls
+  577  rmdir yazı tahtası
+  578  ls
+  579  mkdir yazı\ tahtası
+  580  ls
+  581  mkdir selin\ akbuga\ ankaradan\ geldim
+  582  ls
+  583  rm selin\ akbuga\ ankaradan\ geldim/
+  584  rmdir selin\ akbuga\ ankaradan\ geldim/
+  585  ls
+  586  cat >> yazı\ tahtası/karatahta.md
+  587  ls
+  588  nano gun3/buyukyazı
+  589  nano gun3/kısayazı
+  590  pwd
+  591  ls
+  592  cat gun3/buyukyazı 
+  593  cat gun3/kısayazı 
+  594  more gun3/buyukyazı 
+  595  less gun3/buyukyazı 
+  596  man less
+  597  man more
+  598  nano gun3/kısayazı 
+  599  more gun3/kısayazı 
+  600  cat gun3/kısayazı 
+  601  head gun3/buyukyazı 
+  602  head -1000 gun3/buyukyazı 
+  603  head gun3/buyukyazı 
+  604  tail gun3/buyukyazı 
+  605  tailf /var/log/messages
+  606  sudo tailf /var/log/messages
+  607  ls
+  608  wc --help
+  609  wc gun3/buyukyazı 
+  610  wc -l gun3/buyukyazı 
+  611  wc -w gun3/buyukyazı 
+  612  wc -c gun3/buyukyazı 
+  613  find . -type f
+  614  ls
+  615  find . -type d
+  616  man find
+  617  find --help
+  618  ls
+  619  find . -name deneme*
+  620  find . -name "deneme*"
+  621  find . -name "deneme"
+  622  find . -
+  623  find . -name "deneme*"
+  624  touch gun2/deneme
+  625  find . -name "deneme*"
+  626  find . -name "*yazı"
+  627  find . -name "*Yazı"
+  628  find . -iname "*Yazı"
+  629  ls
+  630  cd ogleden\ sonra/
+  631  ls
+  632  hihi.txt
+  633  touch hihi.txt
+  634  touch deneme denemeee dene
+  635  ls
+  636  tocuh Deneme
+  637  touch Deneme
+  638  ls
+  639  touch Hİ.md Hi.txt
+  640  ls
+  641  cd ..
+  642  ls
+  643  find /home/seda/gun2ogledensonra/ -name "dene"
+  644  find /home/seda/gun2ogledensonra/ -name "dene*"
+  645  find /home/seda/gun2ogledensonra/ -name "*dene"
+  646  find /home/seda/gun2ogledensonra/ -name "*dene*"
+  647  find /home/seda/gun2ogledensonra/ -iname "*dene*"
+  648  find /home/seda/gun2ogledensonra/ -iname "dene"
+  649  find /home/seda/gun2ogledensonra/ -iname "dene*"
+  650  ls
+  651  find gun2/ -type f -iname "dene*"
+  652  ls gun2/
+  653  find ogleden\ sonra/ -type f -iname "dene*"
+  654  ls ogleden\ sonra/
+  655  mkdir DENEME
+  656  mkdir -p DENEMEE/deneme
+  657  find . -type d
+  658  find . -type d -iname "De*"
+  659  ls DENEME/
+  660  ls DENEMEE/
+  661  ls
+  662  ls gun3/
+  663  find gun3/ -size 5M
+  664  find gun3/ -size >5M
+  665  find gun3/ -size <5M
+  666  find gun3/ -size < 5M
+  667  find gun3/ -size <=5M
+  668  find gun3/ -size =<5M
+  669  find gun3/ -size <5M
+  670  find --help
+  671  man find
+  672  find gun3/ -size <5m
+  673  find gun3/ -size <5b
+  674  find gun3/ -size <= 5b
+  675  find gun3/ -size 5M
+  676  find gun3/ -size 1b
+  677  ls -la gun3/
+  678  ls -lah gun3/
+  679  find gun3/ -size >= 5M
+  680  find gun3/ -size >= 1M
+  681  find gun3/ -size +1M
+  682  find gun3/ -size -1M
+  683  find gun3/ -size +1M -5M
+  684  find gun3/ -size +1b
+  685  find gun3/ -size -5b
+  686  find gun3/ -size -5M
+  687  who
+  688  whoami
+  689  find gun3/ -size +1M
+  690  find gun3/ -size -1M
+  691  find gun3/ -size -1b
+  692  find gun3/ -size +1b
+  693  find gun3/ -size -5b
+  694  ls -lah gun3/
+  695  find gun3/ -size -5M
+  696  find gun3/ -size +5M
+  697  find gun3/ -size -5M
+  698  find gun3/ -size +1b
+  699  find gun3/ -size +79b
+  700  ls -lah gun3/
+  701  ls -l
+  702  ls -la
+  703  ls -lah
+  704  ls -lah gun3/
+  705  find gun3/ -size +700b
+  706  find gun3/ -size +70b
+  707  find gun3/ -size +49b
+  708  find gun3/ -size +50b
+  709  find gun3/ -size +50K
+  710  find gun3/ -size +50k
+  711  find gun3/ -size -50k
+  712  ls
+  713  locate deneme
+  714  updatedb
+  715  sudo updatedb
+  716  locate deneme
+  717  locate seda
+  718  ls
+  719  locate deneme1md
+  720  locate deneme1.md
+  721  locate locate
+  722  ls
+  723  ls gun3/
+  724  locate *yazı
+  725  locate selin
+  726  locate "selin"
+  727  ls
+  728  grep -ir "lorem"
+  729  grep -ir "lorem" gun3/
+  730  grep -ir "Lorem" gun3/
+  731  grep -r "Lorem" gun3/
+  732  nano gun3/kısayazı 
+  733  grep -r "lorem"
+  734  grep -r "lorem"ls
+  735  ls
+  736  mv gun3/buyukyazı ..
+  737  grep -r "lorem"ls
+  738  grep -r "lorem"
+  739  grep -r "Lorem"
+  740  grep -ir "Lorem"
+  741  ls
+  742  ls gun3/
+  743  ls
+  744  ls ..
+  745  ls
+  746  mv ../buyukyazı gun3/
+  747  ls gun3/
+  748  mv gun3/kısayazı .
+  749  ls
+  750  man ls
+  751  ls -la
+  752  ls -laht
+  753  ls -lahtr
+  754  man ls
+  755  ls -las
+  756  ls -lash
+  757  man ls
+  758  man -k ls
+  759  man -f ls
+  760  man -f passwd
+  761  man passwd
+  762  man 5 passwd
+  763  cat /etc/passwd
+  764  man 5 passwd
+  765  man -k mount
+  766  man -f mount
+  767  whatis mount
+  768  apropos mount
+  769  ls
+  770  more gun3/buyukyazı 
+  771  less gun3/buyukyazı 
+  772  cd ..
+  773  ls
+  774  history >> gun2.txt
+  775  cd gun2ogledensonra/
+  776  ls
+  777  head -5 gun3/buyukyazı >> bitiriyorum.txt
+  778  ls
+  779  head bitiriyorum.txt 
+  780  nano gun3/buyukyazı 
+  781  ls
+  782  head -5 gun3/buyukyazı > bitiriyorum2.txt
+  783  ls
+  784  tail -5 gun3/buyukyazı >> bitiriyorum.txt
+  785  cat bitiriyorum
+  786  cat bitiriyorum.txt 
+  787  ls
+  788  cat bitiriyorum.txt 
+  789  nano bitiriyorum.txt 
+  790  cat bitiriyorum
+  791  cat bitiriyorum.txt 
+  792  tail -2 gun3/buyukyazı > bitiriyorum.txt 
+  793  cat bitiriyorum.txt 
+  794  cat gun3/seda
+  795  cat > gun3/seda
+  796  head -3 gun3/seda >> bitiriyorum.txt 
+  797  cat bitiriyorum.txt 
+  798  tailf bitiriyorum.txt 
+  799  tailf /var/log/messages
+  800  sudo tailf /var/log/messages
+  801  sudo ls /var/log/
+  802  cd 
+  803  ls
+  804  nano gun2.txt 
+  805  su
+  806  sudo su
+  807  sudo su
+  808  apt-cache pkgnames 
+  809  apt-cache policy 
+  810  apt-cache policy pinta
+  811  apt-cache policy
+  812  apt-cache policy pinta
+  813  cd ~
+  814  pwd
+  815  cd -
+  816  pwd
+  817  cd ../İndirilenler/
+  818  cd -
+  819  cd /home/seda/İndirilenler/
+  820  pwd
+  821  cd -
+  822  cd ~/İndirilenler/
+  823  history 
+  824  cd ..
+  825  ls
+  826  pwd
+  827  cd Belgeler/
+  828  ls /var/log/
+  829  cd -
+  830  pwd
+  831  cd Belgeler ; ls /var/log/
+  832  cd ~/Masaüstü/
+  833  cd -
+  834  ls ~/Masaüstü/
+  835  ls ~/Masaüstü/ >> masaustu.txt
+  836  ls
+  837  cat masaustu.txt 
+  838  ls -altrh /var/log/
+  839  history >> ~/Masaüstü/1-pazar
+  840  cat ~/Masaüstü/1-pazar 
+  841  ls /dev/null 
+  842  sudo ls /dev/null 
+  843  lss -al
+  844  lss -al 2> /dev/null
+  845  lss -al 2> ~/Belgeler/hata.txt
+  846  cat ~/Belgeler/hata.txt 
+  847  nano hata.txt 
+  848  ls
+  849  echo $?
+  850  ls -lh /etc/*.conf > conf.txt
+  851  ls
+  852  cat conf.txt 
+  853  ls -Slh /etc/*.conf > conf.txt
+  854  cat conf.txt 
+  855  ls
+  856  cd arama_komutları/
+  857  ls
+  858  ls -l
+  859  ln -s dizinler/dizin1/dizin2/dizin3/LPI\ Sertifikasyon\ Kitabı.pdf semboliklink
+  860  ls
+  861  find . -name  "*.mov"
+  862  ls -l
+  863  nano video.mov
+  864  ls -l
+  865  find . -name  "*.mov" -empty 
+  866  find . -name  "*.mov" -size -1M
+  867  find . -name  "*.mov" -size +1M
+  868  ls -lh
+  869  ls -l haftaici/
+  870  ls -lh haftaici/
+  871  find . -name "p*" -size +1M -10M
+  872  find . -name "p*" -size +1M
+  873  find . -name "p*" -size -10M
+  874  find . -name "p*" -size -10M -size +1M
+  875  ls -l haftaici/
+  876  ls -l haftaici/p*
+  877  ls -lh haftaici/p*
+  878  grep selin
+  879  grep -ir selin
+  880  grep -r Lorem haftasonu/
+  881  grep -r Lorem haftasonu/cumartesi 
+  882  ls
+  883  nano haftaici/p
+  884  ls haftaici/
+  885  nano haftaici/salı 
+  886  ls -la hafta
+  887  ls -la haftaici/
+  888  nano haftaici/cuma 
+  889  grep -ir lorem haftaici/cuma 
+  890  grep -r lorem haftaici/cuma 
+  891  ls
+  892  ls -l | grep oku*
+  893  ls -l | grep "oku*"
+  894  ls /etc/passwd | grep seda
+  895  ls /etc/passwd | grep "seda"
+  896  cat /etc/passwd | grep "seda"
+  897  ls
+  898  ls | grep "deneme"
+  899  ls
+  900  ls | grep "oku"
+  901  grep -ir "oku"
+  902  grep "oku"
+  903  cat /etc/passwd
+  904  cat /etc/passwd | grep "seda"
+  905  who
+  906  whoami
+  907  hostname
+  908  id
+  909  uname
+  910  uname -a
+  911  uname -a | grep -i "debian"
+  912  mkdir -v bilgiyazdirdim
+  913  mkdir bilgisiz
+  914  ls
+  915  ls >>/dev/null 2>&1
+  916  lssssslls >>/dev/null 2>&1
+  917  klls
+  918  echo $?
+  919  klls >> hataciktisi 2>&1
+  920  ls
+  921  cat hataciktisi 
+  922  ls >> hatasizcikti 2>&1
+  923  ls
+  924  cat hatasizcikti 
+  925  pico /etc/apt/sources.list
+  926  clear
+  927  sudo
+  928  sudo su
+  929  teamviewer 
+  930  clear
+  931  sudo su
+  932  su
+  933  apt list 
+  934  apt -d teamviewer
+  935  apt instal -d teamviewer
+  936  apt install -d teamviewer
+  937  sudo apt install -d teamviewer
+  938  apt purge teamviewer 
+  939  su
+  940  cd .cache/
+  941  ls
+  942  ls -la
+  943  cd ..
+  944  ls -la
+  945  nano .bashrc 
+  946  su
+  947  ls
+  948  mdkir dosyaizin
+  949  mkdir dosyaizin
+  950  ls
+  951  cd dosyaizin/
+  952  ls
+  953  mkdir pazartesi
+  954  touch pazartesi
+  955  ls -la
+  956  ls
+  957  touch pazartesi
+  958  ls
+  959  touch salı
+  960  ls
+  961  ls pazartesi/
+  962  ls -la
+  963  chmod 666 salı 
+  964  ls -l
+  965  chmow 777 salı 
+  966  chmod 777 salı 
+  967  ls -l
+  968  ls /bin/
+  969  ls -l
+  970  chmod 666 salı 
+  971  touch çarşamba ; chmod 712
+  972  touch çarşamba ; chmod 712 çarşamba 
+  973  ls
+  974  ls -l
+  975  ./çarşamba 
+  976  ./salı
+  977  nano salı 
+  978  cat salı 
+  979  ls -l
+  980  chmod 066 salı 
+  981  ls -l
+  982  nano salı 
+  983  chmod 006 salı 
+  984  nano salı 
+  985  [A
+  986  nano salı 
+  987  ls -l salı 
+  988  chmod 077 salı 
+  989  ls -l
+  990  sudo nano salı 
+  991  ls -l
+  992  cat salı 
+  993  nano salı 
+  994  chmod 000 salı 
+  995  ls -l
+  996  cat salı 
+  997  nano salı 
+  998  sudo nano salı 
+  999  ls -l
+ 1000  chmod 666 perşembe
+ 1001  sudo chmod 666 perşembe
+ 1002  touch perşembe ; chmod 777 perşembe
+ 1003  ls -l
+ 1004  chmod 777 pazartesi/
+ 1005  ls
+ 1006  ls -l
+ 1007  cd pazartesi/
+ 1008  ls
+ 1009  mkdir deneme
+ 1010  ls
+ 1011  cd ..
+ 1012  cd pazartesi/
+ 1013  ls
+ 1014  cd ..
+ 1015  ls -l
+ 1016  chmod 000 pazartesi/
+ 1017  ls -l
+ 1018  cd pazartesi/
+ 1019  ls pazartesi/
+ 1020  nano pazartesi/deneme
+ 1021  ls -l
+ 1022  chmod 755 pazartesi/
+ 1023  cd pazartesi/
+ 1024  ls
+ 1025  ls -la
+ 1026  cd ..
+ 1027  ls -l
+ 1028  chmod 750 pazartesi/
+ 1029  ls -l
+ 1030  ls -la pazartesi/
+ 1031  chmod -R 750 pazartesi/
+ 1032  ls -la pazartesi/
+ 1033  ls
+ 1034  mkdir cuma ; chmod 750
+ 1035  mkdir cuma ; chmod 750 cuma/
+ 1036  chmod 750 cuma/
+ 1037  ls
+ 1038  ls -l
+ 1039  cd cuma/
+ 1040  touch txt
+ 1041  ls -l
+ 1042  chmod 66 txt 
+ 1043  chmod 666 txt 
+ 1044  ls -l
+ 1045  history > txt2
+ 1046  ls -l
+ 1047  cd ..
+ 1048  cd pazartesi/
+ 1049  ls -l
+ 1050  cd ..
+ 1051  ls -l
+ 1052  ls -l pazartesi/
+ 1053  cd pazartesi/
+ 1054  mdkir deneme2
+ 1055  mkdir deneme2
+ 1056  ls -l
+ 1057  cd ..
+ 1058  ls
+ 1059  ls pazartesi/
+ 1060  ls cuma/
+ 1061  ls pazartesi/deneme2/
+ 1062  ls
+ 1063  ls -l
+ 1064  chmod u+rwx salı 
+ 1065  ls -l
+ 1066  chmod g+rw salı 
+ 1067  ls -l
+ 1068  chmod o+x salı 
+ 1069  ls -l
+ 1070  chmod u+rwx,g+rwx,o+rwx salı 
+ 1071  ls -l
+ 1072  chmod u-r,g-w,o-x salı 
+ 1073  ls -l
+ 1074  chmod u-w,g+w,o-rwx salı
+ 1075  ls -l
+ 1076  chmod u=rwx,g=r,o=r salı 
+ 1077  ls -l
+ 1078  chown seda2 perşembe 
+ 1079  chown seda2:seda2 perşembe 
+ 1080  sudo chown seda2:seda2 perşembe 
+ 1081  ls -l
+ 1082  chown seda:seda2 çarşamba 
+ 1083  sudo chown seda:seda2 çarşamba 
+ 1084  ls -l
+ 1085  sudo chown seda2:seda perşembe 
+ 1086  ls -l
+ 1087  sudo chown seda2:seda2 perşembe 
+ 1088  ls -l
+ 1089  sudo chown seda2: perşembe 
+ 1090  ls -l
+ 1091  sudo chown seda: perşembe 
+ 1092  ls -l
+ 1093  sudo chown seda2:kamp2020 salı
+ 1094  ls -l
+ 1095  sudo chown :seda salı
+ 1096  ls -l
+ 1097  cat /etc/passwd
+ 1098  sudov/et
+ 1099  cat /etc/shadow
+ 1100  sudo cat /etc/shadow
+ 1101  history >> historyseda2427ocak.txt /home/seda/Belgeler/
+ 1102  history >> /home/seda/Belgeler/historyseda2427ocak.txt
